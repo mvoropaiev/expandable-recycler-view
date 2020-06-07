@@ -2,6 +2,8 @@ package com.thoughtbot.expandablerecyclerview.sample;
 
 import android.app.Application;
 import android.content.Context;
+
+import com.thoughtbot.expandablerecyclerview.BuildConfig;
 import com.thoughtbot.expandablerecyclerview.models.ExpandableListPosition;
 import com.thoughtbot.expandablerecyclerview.sample.multitype.MultiTypeGenreAdapter;
 import java.util.List;
